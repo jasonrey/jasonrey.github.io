@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>repl.it</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #EEEEEE
+    }
+
+    #main {
+      display: flex;
+    }
+
+    #container {
+      height: 100vh;
+      overflow-y: auto;
+    }
+
+    #canvas {
+      margin: 10px;
+      box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.1);
+      flex-grow: 0;
+      background-color: white;
+    }
+
+    #panel {
+      padding: 10px;
+      flex-grow: 1;
+      position: relative;
+    }
+
+    #terminal {
+      margin-top: 10px;
+      box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.1);
+      background-color: #FFFFFF;
+      overflow-y: auto;
+      position: absolute;
+      top: 50px;
+      left: 10px;
+      right: 10px;
+      height: calc(100vh - 70px);
+      overflow-y: auto;
+    }
+
+    #terminal>code {
+      display: block;
+      padding: 10px;
+    }
+
+    #terminal>code:nth-child(even) {
+      background-color: #F3F3F3;
+    }
+
+    #form {
+      flex-grow: 0;
+      flex-shrink: 0;
+      display: flex;
+    }
+
+    #form input {
+      height: 30px;
+    }
+
+    #form button {
+      margin: 0 10px;
+    }
+
+    #form #counter::before {
+      content: '#';
+    }
+
+    #form #counter {
+      display: flex;
+      flex-grow: 1;
+      font-family: monospace;
+      align-items: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="main">
+    <div id="container">
+      <canvas id="canvas"></canvas>
+    </div>
+    <div id="panel">
+      <form id="form">
+        <input type="number" id="iteration" value="5000" />
+        <button id="execute">Run</button>
+        <div id="counter">0</div>
+      </form>
+      <div id="terminal"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
