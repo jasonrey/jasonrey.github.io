@@ -41,7 +41,7 @@
     font-size: 16px;
   }
 }
-@media screen and (max-width: 784px) {
+@media screen and (max-width: 848px) {
   html {
     font-size: 18px;
   }
@@ -57,7 +57,7 @@ body {
     font-family: "Source Sans Pro", sans-serif;
     letter-spacing: 0.2px;
     color: #4C566A;
-    padding: 2em;
+    padding: 3em;
     background-color: white;
     margin-top: 4em;
     margin-bottom: 4em;
@@ -65,10 +65,9 @@ body {
     box-shadow: rgba(184, 194, 215, 0.35) 0px 6px 9px 0px;
   }
 }
-@media screen and (max-width: 784px) {
+@media screen and (max-width: 848px) {
   body {
     margin: 4em 1em;
-    padding: 1em;
   }
 }
 @media print {
@@ -77,15 +76,25 @@ body {
   }
 }
 
+h1, h2, h3, h4 {
+  position: relative;
+}
+h1::before, h2::before, h3::before, h4::before {
+  color: #D8DEE9;
+  font-weight: lighter;
+  font-size: 0.75em;
+  position: absolute;
+  padding-right: 0.5em;
+  left: 0;
+  transform: translate(-100%, 12.5%);
+}
+
 h1 {
   font-size: 2em;
   color: #5E81AC;
 }
 h1::before {
   content: "# ";
-  color: #D8DEE9;
-  font-weight: lighter;
-  font-size: 0.75em;
 }
 
 h2 {
@@ -94,9 +103,6 @@ h2 {
 }
 h2::before {
   content: "## ";
-  color: #D8DEE9;
-  font-weight: lighter;
-  font-size: 0.75em;
 }
 
 h3 {
@@ -105,9 +111,6 @@ h3 {
 }
 h3::before {
   content: "### ";
-  color: #D8DEE9;
-  font-weight: lighter;
-  font-size: 0.75em;
 }
 
 h4 {
@@ -116,13 +119,20 @@ h4 {
 }
 h4::before {
   content: "#### ";
-  color: #D8DEE9;
-  font-weight: lighter;
-  font-size: 0.75em;
 }
 
 blockquote {
-  margin-left: 1em;
+  margin-left: 0;
+  position: relative;
+}
+blockquote::before {
+  content: "> ";
+  font-size: 0.75em;
+  padding-right: 0.5em;
+  color: #4C566A;
+  position: absolute;
+  left: 0;
+  transform: translate(-100%, 25%);
 }
 blockquote p {
   background-color: #ECEFF4;
@@ -130,13 +140,6 @@ blockquote p {
   padding: 0 0.5em;
   margin: 0;
   font-style: italic;
-}
-blockquote p::before {
-  content: "> ";
-  font-size: 0.75em;
-  display: inline-block;
-  margin-right: 1em;
-  color: #4C566A;
 }
 
 em::before {
@@ -168,27 +171,28 @@ strong::after {
 ul {
   list-style: none;
   line-height: 1.75;
+  padding: 0;
 }
-@media (max-width: 784px) {
-  ul {
-    padding-left: 1em;
-  }
+ul li {
+  position: relative;
 }
 ul li::before {
   content: "* ";
   color: #D8DEE9;
   font-weight: bold;
+  padding-right: 0.5em;
+  position: absolute;
+  left: 0;
+  transform: translate(-100%, 0);
+}
+ul li ul {
+  padding-left: 1em;
 }
 
 ol {
   list-style: none;
   counter-reset: li;
   line-height: 1.75;
-}
-@media (max-width: 784px) {
-  ol {
-    padding-left: 1em;
-  }
 }
 ol li {
   counter-increment: li;
@@ -258,10 +262,18 @@ code::after {
 <h4>Job Description</h4>
 <p>Took a step back from management to an engineer role, to be exposed with a large organization's tech architecture.</p>
 <p>In charge of 2 primary projects:</p>
-<ol>
-<li>AirAsia Login - the backend architecture of accounts authentication system</li>
-<li>AirAsia Chat - profiles API, automated/scheduled notification for flights updates</li>
-</ol>
+<ul>
+<li>AirAsia Login
+<ul>
+<li>the backend architecture of accounts authentication system</li>
+</ul>
+</li>
+<li>AirAsia Chat
+<ul>
+<li>profiles API, automated/scheduled notification for flights updates</li>
+</ul>
+</li>
+</ul>
 <h3><a href="https://www.compass-interactive.com">Compass Interactive</a></h3>
 <blockquote>
 <p>Digital Marketing Agency</p>
