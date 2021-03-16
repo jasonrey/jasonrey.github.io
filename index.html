@@ -38,11 +38,6 @@
 @media screen {
   html {
     background-color: #ECEFF4;
-    font-size: 16px;
-  }
-}
-@media screen and (max-width: 848px) {
-  html {
     font-size: 18px;
   }
 }
@@ -57,7 +52,7 @@ body {
     font-family: "Source Sans Pro", sans-serif;
     letter-spacing: 0.2px;
     color: #4C566A;
-    padding: 3em;
+    padding: 3em 1em 3em 3em;
     background-color: white;
     margin-top: 4em;
     margin-bottom: 4em;
@@ -65,9 +60,9 @@ body {
     box-shadow: rgba(184, 194, 215, 0.35) 0px 6px 9px 0px;
   }
 }
-@media screen and (max-width: 848px) {
+@media screen and (max-width: 816px) {
   body {
-    margin: 4em 1em;
+    margin: 4em 0.5em;
   }
 }
 @media print {
@@ -100,14 +95,21 @@ h1::before {
 h2 {
   font-size: 1.75em;
   color: #81A1C1;
+  margin-top: 2em;
+  margin-bottom: 0;
 }
 h2::before {
   content: "## ";
+}
+h2 + h3 {
+  margin-top: 0.5em;
 }
 
 h3 {
   font-size: 1.5em;
   color: #88C0D0;
+  margin-top: 1.5em;
+  margin-bottom: 0;
 }
 h3::before {
   content: "### ";
@@ -116,6 +118,8 @@ h3::before {
 h4 {
   font-size: 1.25em;
   color: #8FBCBB;
+  margin-top: 1em;
+  margin-bottom: 0;
 }
 h4::before {
   content: "#### ";
@@ -172,6 +176,7 @@ ul {
   list-style: none;
   line-height: 1.75;
   padding: 0;
+  margin-top: 0.5em;
 }
 ul li {
   position: relative;
@@ -193,6 +198,7 @@ ol {
   list-style: none;
   counter-reset: li;
   line-height: 1.75;
+  margin-top: 0.5em;
 }
 ol li {
   counter-increment: li;
