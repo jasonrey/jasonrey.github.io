@@ -48,9 +48,10 @@ Involvement from 2022 (as TL / EM)
   - Transport
   - Ride Admin Portal
 - Management
-  - oversee internal team of 25 engineers
+  - manage internal team of 25 engineers, consisting of backend, web, and app engineers
   - oversee software vendor of 10 engineers
   - sprint and quarterly roadmap planning
+  - daily standup and scrum ceremonies
 - Major achievements
   - stablised vendor's infra from weekly firefighting within 1 quarter
   - reduced vendor's infra cost by 45%
