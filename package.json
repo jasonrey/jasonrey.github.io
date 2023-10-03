@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo '<!DOCTYPE html><html>' `cat resume/head.html` '<body>' `npx marked -i resume.md` '</body></html>' > index.html"
   },
   "author": "",
   "license": "ISC",

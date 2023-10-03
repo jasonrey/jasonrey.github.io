@@ -117,7 +117,7 @@ Assigned with 2 technician to manage, plan and delegate tasks.
 
 ## Skills
 
-- General: `TypeScript`
+- General: `TypeScript, JavaScript`
 - Frontend: `VueJS, ReactJS, Pug, SASS`
 - Backend: `NodeJS, PHP`
 - Database: `RDBMS (MySQL, PostgreSQL), NoSQL (Mongo, Firestore, Redis)`
@@ -132,14 +132,103 @@ Assigned with 2 technician to manage, plan and delegate tasks.
 
 ## References
 
-### Yeoh Ewe Seong
-
-- [`016 613 0148`](tel:+60166130148)
-- AirAsia - _Software Engineer 2_
-- In the same development team
-
 ### Wong Wai Sun
 
-- [`012 335 0115`](tel:+60123350115)
+- [`+6012 335 0115`](tel:+60123350115)
 - Compass Interactive - _Managing Director / Founder_
-- Reporting superior
+- Superior
+
+### Juliana
+- [`+6010 238 8002`](tel:+60102388002)
+- AirAsia - _Senior Engineering Manager_
+- Superior
+
+### Jimmy
+- [`+6010 275 6529`](tel:+60102756529)
+- AirAsia - _Engineering Manager_
+- Colleague
+
+### Gothama
+- [`+6011 2950 5669`](tel:+601129505669)
+- AirAsia - _Tech Lead_
+- Subordinate
+
+### Kar Choon
+- [`+6012 422 5435`](tel:+60124225435)
+- AirAsia - _Tech Lead_
+- Subordinate
+
+### Chad
+- [`+6391 7315 4439`](tel:+639173154439)
+- AirAsia - _Senior Software Engineer_
+- Subordinate
+
+### Amsath
+- [`+6014 842 4410`](tel:+60148424410)
+- AirAsia - _Senior Software Engineer_
+- Subordinate
+
+### Sieder
+- [`+6394 5190 1409`](tel:+639451901409)
+- AirAsia - _Senior Software Engineer_
+- Subordinate
+
+### Arben
+- [`+6391 7528 2130`](tel:+639175282130)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Henry
+- [`+6011 3540 1895`](tel:+601135401895)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Francis
+- [`+6391 7628 1425`](tel:+639176281425)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Caleb
+- [`+4479 0798 6154`](tel:+447907986154)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Mustafa
+- [`+6011 1689 0260`](tel:+601116890260)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Aina
+- [`+6013 392 8698`](tel:+60133928698)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Jun Bin
+- [`+6016 215 3316`](tel:+60162153316)
+- AirAsia - _Software Engineer_
+- Subordinate
+
+### Jia Ming
+- [`+6017 532 7197`](tel:+60175327197)
+- Compass Interactive - _Senior Software Engineer_
+- Subordinate
+
+### Meng Hong
+- [`+6019 662 4859`](tel:+60196624859)
+- Compass Interactive - _Senior Software Engineer_
+- Subordinate
+
+### John
+- [`+6012 643 3367`](tel:+60126433367)
+- Compass Interactive - _Software Engineer_
+- Subordinate
+
+### Wei Shen
+- [`+6010 443 7750`](tel:+60104437750)
+- Compass Interactive - _Software Engineer_
+- Subordinate
+
+### Matthew
+- [`+6012 382 1431`](tel:+60123821431)
+- Compass Interactive - _Software Engineer_
+- Subordinate
