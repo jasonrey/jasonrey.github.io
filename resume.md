@@ -6,6 +6,7 @@
 
 - Email: [`neohtengsern@gmail.com`](mailto:neohtengsern@gmail.com)
 - Phone: [`018 277 3601`](tel:+60182773601)
+- LinkedIn: [`jsonobject`](https://www.linkedin.com/in/jsonobject)
 - Website: [`https://devs.to`](https://devs.to)
 - Region: `Subang Jaya, Selangor`
 
@@ -149,6 +150,11 @@ Assigned with 2 technician to manage, plan and delegate tasks.
 - AirAsia - _Engineering Manager_
 - Colleague
 
+### Robin
+- [`+6017 351 5166`](tel:+60173515166)
+- AirAsia - _Product Head_
+- Colleague
+
 ### Gothama
 - [`+6011 2950 5669`](tel:+601129505669)
 - AirAsia - _Tech Lead_
@@ -217,6 +223,16 @@ Assigned with 2 technician to manage, plan and delegate tasks.
 ### Meng Hong
 - [`+6019 662 4859`](tel:+60196624859)
 - Compass Interactive - _Senior Software Engineer_
+- Subordinate
+
+### Billy
+- [`+6012 785 2883`](tel:+601278532883)
+- Compass Interactive - _Senior Software Engineer_
+- Subordinate
+
+### Howard
+- [`+6019 368 4405`](tel:+60193684405)
+- Compass Interactive - _Software Engineer_
 - Subordinate
 
 ### John
