@@ -8,9 +8,23 @@
 - Phone: [`018 277 3601`](tel:+60182773601)
 - LinkedIn: [`jsonobject`](https://www.linkedin.com/in/jsonobject)
 - Website: [`https://devs.to`](https://devs.to)
-- Region: `Subang Jaya, Selangor`
+- Region: `Puchong, Selangor`
 
 ## Experience
+
+### [KasagiLabo](https://www.kasagilabo.com)
+
+> Anime, Social
+
+#### Positions
+
+- `Backend Lead` _06/2025 - current_
+
+#### Job Description
+
+- Backend, data, infra and cost management
+- Stablised and balanced startup pace versus maintenability
+- Propagate productvity with full AI development cycle
 
 ### [AirAsia](https://www.airasia.com)
 
@@ -18,7 +32,7 @@
 
 #### Positions
 
-- `Engineering Manager` _01/2023 ~ current_
+- `Engineering Manager` _01/2023 ~ 06/2025_
 - `Tech Lead` _01/2022 ~ 12/2023_
 - `Senior Software Engineer` _01/2021 ~ 12/2022_
 - `Software Engineer 2` _05/2020 ~ 12/2020_
@@ -44,6 +58,7 @@ Involvement from 2020 to 2022 (as SE2 / SSE)
 Involvement from 2022 (as TL / EM)
 
 - Projects
+  - DutyFree
   - Food
   - Shop
   - Transport
@@ -55,9 +70,10 @@ Involvement from 2022 (as TL / EM)
   - daily standup and scrum ceremonies
 - Major achievements
   - stablised vendor's infra from weekly firefighting within 1 quarter
-  - reduced vendor's infra cost by 45%
-  - reduced dependency on vendor headcount, reducing cost by 30%
+  - reduced vendor's infra cost by 99%
+  - reduced dependency on vendor headcount, reducing cost by 50%
   - implemented transport allocation engine that increased sales by 25%
+  - revamped entire ecommerce system within 2 months with a team of 5 engineers
 
 ### [Compass Interactive](https://www.compass-interactive.com)
 
@@ -76,11 +92,11 @@ Involvement from 2022 (as TL / EM)
 - Doubled the amount of projects and clients.
 - Handles team salary planning and distribution.
 - Upgraded outdated infrastructure and skills:
-    1. Introduced Git and Gitlab.
-    2. Implemented CICD with Docker deployment.
-    3. Migrated shared hosting web projects to VPS.
-    4. Switched team to use Linux/Mac.
-    5. Enforced proper coding standards.
+  1. Introduced Git and Gitlab.
+  2. Implemented CICD with Docker deployment.
+  3. Migrated shared hosting web projects to VPS.
+  4. Switched team to use Linux/Mac.
+  5. Enforced proper coding standards.
 
 ### [StackIdeas](https://stackideas.com)
 
@@ -134,6 +150,24 @@ Assigned with 2 technician to manage, plan and delegate tasks.
 
 ## References
 
+### Francis Shen
+
+- [`+6012 280 9849`](tel:+60122809849)
+- AirAsia - _Department Head_
+- Superior
+
+### Danial Hui
+
+- [`+6016 263 9394`](tel:+60162639394)
+- AirAsia - _Department Head_ / KasagiLabo - _VP_
+- Superior
+
+### Bryan Luke
+
+- [`+65 9152 4585`](tel:+6591524585)
+- KasagiLabo - _Web Lead_
+- Colleague
+
 ### Wong Wai Sun
 
 - [`+6012 335 0115`](tel:+60123350115)
@@ -141,111 +175,121 @@ Assigned with 2 technician to manage, plan and delegate tasks.
 - Superior
 
 ### Juliana
+
 - [`+6010 238 8002`](tel:+60102388002)
 - AirAsia - _Senior Engineering Manager_
 - Superior
 
 ### Jimmy
+
 - [`+6010 275 6529`](tel:+60102756529)
 - AirAsia - _Engineering Manager_
 - Colleague
 
 ### Robin
+
 - [`+6017 351 5166`](tel:+60173515166)
 - AirAsia - _Product Head_
 - Colleague
 
-### Gothama
-- [`+6011 2950 5669`](tel:+601129505669)
-- AirAsia - _Tech Lead_
-- Subordinate
-
 ### Kar Choon
+
 - [`+6012 422 5435`](tel:+60124225435)
 - AirAsia - _Tech Lead_
 - Subordinate
 
 ### Chad
+
 - [`+6391 7315 4439`](tel:+639173154439)
 - AirAsia - _Senior Software Engineer_
 - Subordinate
 
 ### Amsath
+
 - [`+6014 842 4410`](tel:+60148424410)
 - AirAsia - _Senior Software Engineer_
 - Subordinate
 
 ### Sieder
+
 - [`+6394 5190 1409`](tel:+639451901409)
 - AirAsia - _Senior Software Engineer_
 - Subordinate
 
 ### Arben
+
 - [`+6391 7528 2130`](tel:+639175282130)
 - AirAsia - _Software Engineer_
 - Subordinate
 
 ### Henry
+
 - [`+6011 3540 1895`](tel:+601135401895)
 - AirAsia - _Software Engineer_
 - Subordinate
 
 ### Francis
+
 - [`+6391 7628 1425`](tel:+639176281425)
 - AirAsia - _Software Engineer_
 - Subordinate
 
 ### Caleb
+
 - [`+4479 0798 6154`](tel:+447907986154)
 - AirAsia - _Software Engineer_
 - Subordinate
 
 ### Mustafa
+
 - [`+6011 1689 0260`](tel:+601116890260)
 - AirAsia - _Software Engineer_
 - Subordinate
 
-### Aina
-- [`+6013 392 8698`](tel:+60133928698)
-- AirAsia - _Software Engineer_
-- Subordinate
-
 ### Jun Bin
+
 - [`+6016 215 3316`](tel:+60162153316)
 - AirAsia - _Software Engineer_
 - Subordinate
 
 ### Jia Ming
+
 - [`+6017 532 7197`](tel:+60175327197)
 - Compass Interactive - _Senior Software Engineer_
 - Subordinate
 
 ### Meng Hong
+
 - [`+6019 662 4859`](tel:+60196624859)
 - Compass Interactive - _Senior Software Engineer_
 - Subordinate
 
 ### Billy
+
 - [`+6012 785 2883`](tel:+601278532883)
 - Compass Interactive - _Senior Software Engineer_
 - Subordinate
 
 ### Howard
+
 - [`+6019 368 4405`](tel:+60193684405)
 - Compass Interactive - _Software Engineer_
 - Subordinate
 
 ### John
+
 - [`+6012 643 3367`](tel:+60126433367)
 - Compass Interactive - _Software Engineer_
 - Subordinate
 
 ### Wei Shen
+
 - [`+6010 443 7750`](tel:+60104437750)
 - Compass Interactive - _Software Engineer_
 - Subordinate
 
 ### Matthew
+
 - [`+6012 382 1431`](tel:+60123821431)
 - Compass Interactive - _Software Engineer_
 - Subordinate
