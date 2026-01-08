@@ -69,7 +69,7 @@ Involvement from 2022 (as TL / EM)
   - sprint and quarterly roadmap planning
   - daily standup and scrum ceremonies
 - Major achievements
-  - stablised vendor's infra from weekly firefighting within 1 quarter
+  - stabilised vendor's infra from weekly firefighting within 1 quarter
   - reduced vendor's infra cost by 99%
   - reduced dependency on vendor headcount, reducing cost by 50%
   - implemented transport allocation engine that increased sales by 25%
