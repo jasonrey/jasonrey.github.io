@@ -22,9 +22,9 @@
 
 #### Job Description
 
-- Backend, data, infra and cost management
-- Stablised and balanced startup pace versus maintenability
-- Propagate productvity with full AI development cycle
+- Define technical strategy for backend, data infrastructure, and cost optimization
+- Drive AI-first development transformation across engineering lifecycle
+- Balance strategic trade-offs between startup velocity and long-term maintainability
 
 ### [AirAsia](https://www.airasia.com)
 
@@ -57,23 +57,21 @@ Involvement from 2020 to 2022 (as SE2 / SSE)
 
 Involvement from 2022 (as TL / EM)
 
-- Projects
-  - DutyFree
-  - Food
-  - Shop
-  - Transport
-  - Ride Admin Portal
-- Management
-  - manage internal team of 25 engineers, consisting of backend, web, and app engineers
-  - oversee software vendor of 10 engineers
-  - sprint and quarterly roadmap planning
-  - daily standup and scrum ceremonies
-- Major achievements
+- Strategic Leadership
+  - participated in quarterly strategic planning with executive leadership
+  - managed portfolio of 6 product lines (DutyFree, Food, Shop, Transport, Ride, Admin Portal) with ROI-based prioritization
+  - led organizational transformation from vendor-dependent to internal capability model
+- Team & Stakeholder Management
+  - directed 35 engineers (25 internal + 10 vendor) across backend, web, mobile with international distributed workforce (Malaysia, Philippines)
+  - collaborated with C-level and Business Unit heads on roadmap alignment
+  - built remote-first engineering practices and unified culture across geographic boundaries
+- Organizational Capability
+  - established DevOps/SRE culture and engineering governance standards
   - stabilised vendor's infra from weekly firefighting within 1 quarter
-  - reduced vendor's infra cost by 99%
-  - reduced dependency on vendor headcount, reducing cost by 50%
-  - implemented transport allocation engine that increased sales by 25%
-  - revamped entire ecommerce system within 2 months with a team of 5 engineers
+- Strategic Impact
+  - implemented transport allocation engine increasing sales by 25%, supporting revenue diversification strategy
+  - reduced infra cost by 99% and vendor dependency by 50%, enabling strategic reinvestment into internal capabilities
+  - led complete ecommerce modernization in 2 months, unblocking technical debt and enabling new revenue streams + international expansion
 
 ### [Compass Interactive](https://www.compass-interactive.com)
 
